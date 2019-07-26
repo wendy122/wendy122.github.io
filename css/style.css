@@ -19,10 +19,10 @@ a{
 }
 
 header{
+  background-color: #F0F8FF;
+  padding: 200px 0;
   background-image: url("../images/headerbackground.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
-
-/* Helloo */
