@@ -32,13 +32,13 @@ header{
   padding: 60px 0 40px;
 }
 
-ul{
+.first-section ul{
   background-color: pink;
   border-radius: 8px;
   margin-top: 25px;
   padding: 30px 55px;
 }
 
-li{
+.first-section li{
   margin-bottom: 8px;
 }
