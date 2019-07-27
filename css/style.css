@@ -27,3 +27,7 @@ header{
 .first-section{
   background-color: white;
 }
+
+.section{
+  padding: 60px 0 40px;
+}
