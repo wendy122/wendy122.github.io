@@ -42,3 +42,8 @@ header{
 .first-section li{
   margin-bottom: 8px;
 }
+
+body{
+  background-color: red;
+  color: blue;
+}
